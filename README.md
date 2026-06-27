@@ -38,7 +38,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 ---
-### :bar_chart: GitHub Statss
+
+### :bar_chart: GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kr307&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Kritika's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr307&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Kritika's Top Languages" height="180px" />
