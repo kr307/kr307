@@ -1,20 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Kritika</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Kritika
+</h1>
 <h3 align="center">A passionate Software Engineer and Full-Stack Web Developer</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a> 
-  <a href="mailto:[YOUR_EMAIL@example.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-</p>
+
 ---
-### 💫 About Me
-- 💻 I build full-stack web applications, backend REST APIs, and project management tools.
-- 🛠️ Currently developing projects like **[Jira-like Platform](https://github.com/kr307/Jira-like-Platform)** (a comprehensive team task tracker) and **[Student Enrollment System](https://github.com/kr307/student_enrollment_system)** (FastAPI and SQLAlchemy backend).
-- 🌱 Currently expanding my skills in **Next.js, DevOps, and Scalable System Architectures**.
-- ✉️ How to reach me: Feel free to send an email at **[YOUR_EMAIL@example.com]** or connect with me on LinkedIn.
+
+- :seedling: Currently expanding my skills in **Next.js, DevOps, and Scalable System Architectures**.
+- :mailbox: Reach me at: [kritikaraj307@gmail.com](mailto:kritikaraj307@gmail.com)
+
 ---
+
 ### 💻 Tech Stack & Tools
 <p align="center">
   <!-- Languages -->
@@ -43,7 +38,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 ---
-### 📊 GitHub Analytics
+### :bar_chart: GitHub Statss
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kr307&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Kritika's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr307&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Kritika's Top Languages" height="180px" />
@@ -52,8 +47,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kr307&theme=dark&hide_border=false" alt="Kritika's Contribution Streak" />
 </p>
 ---
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+### :globe_with_meridians: Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritikarajin)
+)
+
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
