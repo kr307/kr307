@@ -55,7 +55,7 @@
 ### :globe_with_meridians: Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritikarajin)
-)
+
 
 ![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
